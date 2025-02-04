@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Scenes/MainMenue.unity
+    guid: a71bf403024ab8a44a3f0683e92aa3ba
+  - enabled: 1
+    path: Assets/Scenes/Scenes/Tutorial.unity
+    guid: 83f70dbc33abdd645ba41571661508f1
+  - enabled: 1
+    path: Assets/Scenes/Scenes/Woods.unity
+    guid: fd515b9f6a6699745b89d5414c82050b
+  - enabled: 1
+    path: Assets/Scenes/Scenes/Mines.unity
+    guid: 82b68ffa05700794ea7281efdad31d9b
+  - enabled: 1
+    path: Assets/Scenes/Scenes/Castle.unity
+    guid: 2531bbc335ae2204eb4a7e3cbbd8ba06
+  - enabled: 1
+    path: Assets/Scenes/Scenes/FinallBoss.unity
+    guid: 52437807fef9a014084f7c29165997a6
+  - enabled: 1
+    path: Assets/Scenes/Scenes/TheEnd.unity
+    guid: d322f7973842cd84eb287a9ebd4d27d1
+  - enabled: 0
+    path: Assets/Scenes/Scenes/Testing.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects: {}
